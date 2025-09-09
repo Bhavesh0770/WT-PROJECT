@@ -1,2 +1,3 @@
 # WT-PROJECT
-i have done this in my sem 5
+
+This is my "Web Technologies Lab" project for cummulative assessment - 1 
